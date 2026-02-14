@@ -13,7 +13,9 @@
       "Bash(gh api:*)",
       "Bash(git push:*)",
       "Bash(gh run list:*)",
-      "Bash(gh run view:*)"
+      "Bash(gh run view:*)",
+      "Bash(gh repo rename:*)",
+      "Bash(git remote set-url:*)"
     ]
   }
 }
